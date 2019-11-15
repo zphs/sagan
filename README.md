@@ -18,6 +18,7 @@ If you have any questions, feedback, or feature requests, don't hesitate to [add
 
 ## License
 
+
 Sagan is released under the [BSD-3 license](LICENSE.md).
 
 
